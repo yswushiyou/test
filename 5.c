@@ -20,7 +20,7 @@ ll
 
 
 
-
+ooo
 printf();	
 	return 0;
 }
